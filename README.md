@@ -2,7 +2,7 @@
 
 # Description:
 
-A simple snake game written in Python using the "Pygame" library.
+A simple snake game written in Python using the "Pygame" library. Also used this library to design the structure of snake’s head, body, food, providing them a virtual canvas and dimensions of the game console area.
 
 # Installation:
 
